@@ -3,8 +3,8 @@ DigiPen Against Humanity
 
 *DigiPen Against Humanity* is a stand-alone card game for three or more players
 based on *Cards Against Humanity*. I wrote about a third of it while pretty
-drunk. It is neither created by nor affiliated with DigiPen Institute of
-Technology in any way. See "Legal disclaimers" at the end of these rules for
+drunk. **It is neither created by nor affiliated with DigiPen Institute of
+Technology in any way.** See "Legal disclaimers" at the end of these rules for
 more details. 
 
 
@@ -15,16 +15,18 @@ Overview
 The original intent of the game was to make a *CAH* clone that would appeal to
 all DigiPen Institute of Technology students, but it quickly became apparent
 that while there certainly is common ground to be found, many of the things that
-make DigiPen students the most resentful live in each respective degree program.
+DigiPen students find funny exist separately in each respective degree program.
 
 This brings us to the biggest difference between *DigiPen Against Humanity* and
 *Cards Against Humanity* (other than how the playful nihilism and occasional
 biting social commentary have been replaced with an overall feeling of bitter
 defeat): the cards have logos in the lower left-hand corner that allow you to
-customize how the game plays depending on who is participating. Cards marked
-"CS" will likely only be meaningful to RTIS and BSGD students. Cards marked
-"GD" will technically apply to BSGD and BAGD students, but really more the
-former than the latter. Cards marked "BFA" aren't funny to anyone.
+customize how the game plays depending on who is participating:
+
+ * Cards marked "CS" will likely only be meaningful to RTIS and BSGD students.
+ * Cards marked "GD" will technically apply to BSGD and BAGD students, but
+   really more the former than the latter.
+ * Cards marked "BFA" aren't funny to anyone.
 
 
 
@@ -42,7 +44,9 @@ Objective
 ---------
 
 Laugh and cry and try to regain enough resolve to return to DigiPen for another
-semester. Or, if you dropped out, feel even better about your decision to do so.
+semester.
+
+Or, if you dropped out, feel even better about your decision to do so.
 
 
 
@@ -173,9 +177,10 @@ perspective that most of the game comes from, but additional RTIS- or
 BFA-themed cards, as well as cards that focus on other degree programs would be
 welcome additions to future versions as well.
 
-*DigiPen Against Humanity* will never contain cards that make personal attacks
-on individuals. Any cards that name specific individuals will only do so
-because they have my utmost respect.
+*DigiPen Against Humanity* retains much of the offensive nature of the game it
+is based on, and does so all in good fun. *DigiPen Against Humanity* will never
+contain cards that make personal attacks on individuals. Any cards that do name
+specific individuals will only do so because they have my utmost respect.
 
 
 
