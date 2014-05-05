@@ -1,16 +1,11 @@
 DigiPen Against Humanity
 ========================
 
-*DigiPen Against Humanity* is a stand-alone card game based on *Cards Against
-Humanity*. I wrote about a third of it while pretty drunk. You can tell, because
-those are the meanest, most bitter cards.
-
-*DigiPen Against Humanity* is neither created by nor affiliated with DigiPen
-Institute of Technology in any way. See "Legal disclaimers" at the end of these
-rules for more details.
-
-*DigiPen Against Humanity* is a game for more than two players. It contains a
-lot of bad words and feelings of bitterness and resentment. 
+*DigiPen Against Humanity* is a stand-alone card game for three or more players
+based on *Cards Against Humanity*. I wrote about a third of it while pretty
+drunk. It is neither created by nor affiliated with DigiPen Institute of
+Technology in any way. See "Legal disclaimers" at the end of these rules for
+more details. 
 
 
 
@@ -30,11 +25,6 @@ customize how the game plays depending on who is participating. Cards marked
 "CS" will likely only be meaningful to RTIS and BSGD students. Cards marked
 "GD" will technically apply to BSGD and BAGD students, but really more the
 former than the latter. Cards marked "BFA" aren't funny to anyone.
-
-This game was created by a BSGD student after having survived the first year
-at DigiPen without failing anything, but only just barely. This is the
-perspective that most of the game comes from, but additional RTIS- or
-BFA-themed cards would we welcome additions to future versions as well.
 
 
 
@@ -174,6 +164,21 @@ If someone doesn't win, they lose, and that sucks.
 
 
 
+Future versions
+---------------
+
+This game was created by a BSGD student after having survived the first year
+at DigiPen without failing anything, but only just barely. This is the
+perspective that most of the game comes from, but additional RTIS- or
+BFA-themed cards, as well as cards that focus on other degree programs would be
+welcome additions to future versions as well.
+
+*DigiPen Against Humanity* will never contain cards that make personal attacks
+on individuals. Any cards that name specific individuals will only do so
+because they have my utmost respect.
+
+
+
 Legal disclaimers
 -----------------
 
@@ -202,4 +207,4 @@ it falls under "Fair Use" guidelines:
 [http://www.copyright.gov/fls/fl102.html](http://www.copyright.gov/fls/fl102.html)
 
 This game is in no way affiliated with or created by DigiPen Institute of
-Technology. 
+Technology.
