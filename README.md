@@ -28,7 +28,7 @@ customize how the game plays depending on who is participating:
    really more the former than the latter.
  * Cards marked "BFA" aren't funny to anyone.
 
-Of course, you can pick whichever cards you want regardless. I'm not going to
+Of course, you can pick whichever cards you want regardless. Nobody's going to
 stop you.
 
 
@@ -77,6 +77,14 @@ immediately lose the game and can't play for the rest of the night. Otherwise,
 tell them "yes."
 
 The player who pooped most recently is the first Card Czar.
+
+
+
+How to play (short version)
+---------------------------
+
+It's
+[*Cards Against* fucking *Humanity*](http://s3.amazonaws.com/cah/CAH_MainGame.pdf).
 
 
 
@@ -213,7 +221,8 @@ welcome additions to future versions as well.
 *DigiPen Against Humanity* retains much of the offensive nature of the game it
 is based on, and does so all in good fun. *DigiPen Against Humanity* will never
 contain cards that make personal attacks on individuals. Any cards that do name
-specific individuals will only do so because they have my utmost respect.
+specific individuals will only do so because they have the utmost respect of the
+creator.
 
 
 
