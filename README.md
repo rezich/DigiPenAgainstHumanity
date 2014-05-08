@@ -2,10 +2,10 @@ DigiPen Against Humanity
 ========================
 
 *DigiPen Against Humanity* is a stand-alone card game for three or more players
-based on *Cards Against Humanity*. I wrote about a third of it while pretty
-drunk. **It is neither created by nor affiliated with DigiPen Institute of
-Technology in any way.** See "Legal disclaimers" at the end of these rules for
-more details. 
+based on *Cards Against Humanity*, intended for play by students and alumni of
+DigiPen Institute of Technology. **It is neither created by nor affiliated with
+DigiPen Institute of Technology in any way.** See "Legal disclaimers" at the end
+of these rules for more details.
 
 
 
@@ -28,6 +28,9 @@ customize how the game plays depending on who is participating:
    really more the former than the latter.
  * Cards marked "BFA" aren't funny to anyone.
 
+Of course, you can pick whichever cards you want regardless. I'm not going to
+stop you.
+
 
 
 Components
@@ -35,18 +38,23 @@ Components
 
  * a bunch of Black Cards
  * a shit-ton of White Cards
- * this document
- * alcohol (optional) (not provided)
+ * alcohol (optional) (not included)
 
 
 
 Objective
 ---------
 
-Laugh and cry and try to regain enough resolve to return to DigiPen for another
-semester.
+The objective of the game varies from player to player depending on each
+player's specific relationship with DigiPen:
 
-Or, if you dropped out, feel even better about your decision to do so.
+ * **Current students:** Have a good laugh and and try to regain enough resolve
+to return to DigiPen for another semester.
+ * **Alumni:** Have a good laugh and work through the PTSD you're experiencing
+on a daily basis.
+ * **Dropouts:** Have a good laugh and remember all that crazy shit you don't
+have to put up with anymore.
+ * **Prospective students:** You aren't allowed to play.
 
 
 
@@ -102,25 +110,41 @@ table, and the new round begins.
 
 ### Special cards ###
 
+Not every card is created equally; a few cards take more effort than the others
+to make them work. Just like some degree programs at DigiPen.
+
+
+
+#### PICK 2 ####
+
 Some Black Cards say **PICK 2** on the bottom. These cards require players to
 play two White Cards, instead of just one. Instead of putting all players' White
 Cards in a single pile and shuffling them, have each player place their White
 Cards in their own two-card-high stack, placing the card that they wish to be
 read first on *top* of the card that they wish to be read second. Get that? It's
-super important. Here, I'll put it in bold so you can find this sentence when
-somebody invariably asks you to repeat the specifics of the rules: **When
-playing multiple White Cards, place the cards face-down on the table, one pile
-per player, with the cards ordered such that the *top card* shall be read
-*first.*** Have the Card Czar look away for a second, and then either move the
-piles around so the Card Czar doesn't remember whose was where, or just leave
-them be, as they probably don't remember and it really doesn't matter much
-anyways. When the Card Czar reads the White Cards out loud, they *must* read the
-cards in the order they were intended to be read (top card first, bottom card
-last).
+super important.
+
+Here, I'll put it in bold so you can find this sentence when somebody invariably
+asks you to repeat the specifics of the rules:
+
+**When playing multiple White Cards, place the cards face-down on the table, one
+pile per player, with the cards ordered such that the *top card* shall be read
+*first.***
+
+Have the Card Czar look away for a second, and then either move the piles around
+so the Card Czar doesn't remember whose was where, or just leave them be, as
+they probably don't remember and it really doesn't matter much anyways. When the
+Card Czar reads the White Cards out loud, they *must* read the cards in the
+order they were intended to be read (top card first, bottom card last).
+
+
+
+#### DRAW 2, PICK 3 ####
 
 Some Black Cards say **DRAW 2, PICK 3** on the bottom. These cards are crazy.
 When one of these cards is drawn, all non-Card Czar players immediately draw two
-extra White Cards, and must play *three* White Cards.
+extra White Cards, and must play *three* White Cards. There's only like one of
+these cards though.
 
 
 
@@ -134,7 +158,8 @@ extra White Cards, and must play *three* White Cards.
    *perfect card* for that previous Black Card. When this happens, it sucks,
    but you can't do anything about it other than feel bummed out.
  * **Humor is subjective**; the Card Czar has the final say in who wins the
-   Black Card each round.
+   Black Card each round. It's perfectly valid for the Card Czar to choose a
+   combination of cards that is "too real" over your meticulously crafted joke.
  * If you have too few players (two or maybe three), or otherwise just want to
    add some non-sequitur RNG to the game, feel free to play with **Rando
    Cardrissian**.
@@ -159,10 +184,18 @@ and everyone gets up and starts moving about, or something like that. Otherwise,
 the game ends either when one player gets seven Black Cards or there are no more
 Black Cards left to draw.
 
-When the game ends, evaluate how everyone's doing. If they feel better about
-attending another semester at DigiPen compared to how they did before the game
-started, they win. If they already dropped out, they also win. If they had a
-good time at all, really, this also counts as winning.
+At the end of the game, evaluate how everyone's doing:
+
+ * **Current students:** If you feel better about attending another semester at
+ DigiPen compared to how you did before the game started, you win.
+ * **Alumni:** If you got to something along the lines of "Jesus Christ, I
+ remember that, I'm *so* glad I don't have to put up with *that* shit anymore"
+ at least once during the game, you win.
+ * **Dropouts:** You automatically win.
+ * **Prospective students:** You were never allowed to play in the first place.
+
+Additionally, if you had a good time at all, really, this also counts as
+winning.
 
 If someone doesn't win, they lose, and that sucks.
 
