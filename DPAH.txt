@@ -1,0 +1,224 @@
+================================================================================
+DigiPen Against Humanity
+v1.1 alpha
+================================================================================
+
+--------------------------------------------------------------------------------
+LEGEND
+--------------------------------------------------------------------------------
+  *  DigiPen Against Humanity
+BFA  DigiPen BFA Students Against Humanity
+ CS  DigiPen CS Students Against Humanity
+ GD  DigiPen (BS)GD Students Against Humanity
+
+*italicized text*
+`monospaced text`
+
+The number next to black cards denotes how many white cards each player plays.
+
+
+--------------------------------------------------------------------------------
+BLACK
+--------------------------------------------------------------------------------
+  *  -  What does Ellinger secretly prefer?
+  *  -  What is the pottery room *really* used for?
+  *  2  The real unspoken secret to ___ at DigiPen is ___.
+  *  -  _______? At DigiPen? It's more likely than you'd think.
+ CS  -  What the fuck are the BAGDers giggling about *this* time?
+  *  -  What does Claude Comair have a secret room on campus devoted to?
+ CS  -  The final commit message for our game project was simply a defeated "___."
+  *  -  I heard DigiPen is finally adding a new degree program solely focused on ___.
+  *  -  Apparently, an entire freshman game team was expelled last year for using ___.
+  *  -  From the sound of it, the general theme of the freshman game projects this year is ___.
+  *  -  Even though I knew it won 47 awards, I still can't believe Subray won the award for ___.
+  *  -  If I had to give only one piece of advice to incoming freshmen, it would be to avoid ___.
+  *  3  My parents think life at DigiPen is all ___ and ___, but to be honest, it's mostly just ___.
+  *  -  Even though we'll never publicly admit it, the *real* reason we fired our lead designer was due to ___.
+  *  -  When my friends back home ask what I do at video game school on a daily basis, my default response is "___."
+  *  -  Look to your left, look to your right; one of these students won't graduate with you, because of ___.
+  *  -  Word is, the sophomore RTIS students get together at the end of every year and play a drinking game centered around ___.
+ CS  -  In our final CS170 lecture, Mead informed us that ___ is the one thing that separates amateur and professional developers.
+  *  2  After realizing halfway through development that our game wasn't fun or interesting, we switched our focus from ___ to ___.
+  *  -  I don't know what my teammates told our artist, but *I* sure as shit didn't ask them for nine pages filled with sketches of ___.
+  *  -  If we can't have access to reliably usable Wi-Fi, the school ought to at *least* allow us to use ___ to try to connect to the Internet.
+ CS  -  For my next game team, I'm going to forego hiring developers entirely, and instead hire seven BAGDs that can all bring ___ to the table.
+ CS  -  We lost 40% on our game project last semester when the professor noticed a comment containing "TODO: consider ___" in one of our header files.
+ CS  -  The style guide our tech lead wrote up over the break didn't really mention naming conventions or consistency, and instead was mostly just a 34-page rant about ___.
+  *  -  I somehow spent my entire budget of dP in the first twenty-four hours of the semester because of ___.
+ CS  -  Zero Engine is actually really cool once you get past some of its quirks, such as its tendency to create ___ during runtime.
+ GD  -  In an effort to make the BSGD program more tolerable, they're removing Psychology 101 from their first semester, but then replacing it with a class on ___.
+  *  -  How do upperclassmen retain sanity?
+  *  -  As it turns out, DigiPen has a lesser-known club entirely based around ___.
+  *  -  It was a long semester, but now that it's over, I'll finally be able to confidently add "___" to my list of Skills & Endorsements on LinkedIn.
+  *  2  DigiPen + ___ = ___.
+  *  -  Now that they've installed key card locks on all the doors, I can finally breathe easy knowing I'm no longer in danger of ___.
+  *  -  Yesterday at Playtesting Club, I got to check out that Oculus Rift game everyone's been talking about. It's true, it really does make you feel like you're ___!
+  *  -  Even through all the bad times and the bullshit, ___ is the one thing that keeps me from dropping out.
+  *  -  Gotta love it when people think that having played video games non-stop since middle school means that they understand ___ better than the professor.
+  *  -  If I was given infinite time and resources to make the video game I've always wanted to make, it would be about ___.
+  *  -  What even *is* a game, *really*, man?
+  *  -  Truly experiencing ___ was easily more engaging than any video game I've ever played.
+  *  -  Look, dude. Our game can be about either ____ or ____, but there's no way it can be about both.
+  *  -  During the postmortem of my GAM 150 game, we realized that ____ was the one thing the game truly lacked.
+
+
+--------------------------------------------------------------------------------
+WHITE
+--------------------------------------------------------------------------------
+  *     BFAs.
+  *     Hope.
+  *     BAGDs.
+  *     BSGDs.
+  *     Wi-Fi.
+ CS     CS 230.
+  *     Moodle.
+ CS     Doxygen.
+  *     Fedoras.
+  *     eSports.
+ CS     `tablen`.
+ CS     Randy Gaul.
+ GD     ZeroEditor.
+  *     Team spaces.
+  *     Hard liquor.
+  *     Nude models.
+  *     Overscoping.
+ CS     Alpha Engine.
+  *     Singaporians.
+  *     Team-on-ones.
+ CS     Linker errors.
+  *     Programmer art.
+  *     The ClaudeWich.
+ CS     Spaghetti code.
+ CS     Merge conflicts.
+  *     DigiMac, *again*.
+  *     *Narbacular Drop*.
+ CS     Breaking the build.
+  *     Goddamn *freshmen*.
+ GD     The intensity curve.
+ CS     Precompiled headers.
+BFA     Some real RTIS shit.
+  *     Even *more* particles.
+ CS     Self-documenting code.
+  *     Dropping the fuck out.
+  *     *Magic: The Gathering*.
+ CS     Faking inheritance in C.
+  *     Having shitty roommates.
+  *     Arguing about video games.
+  *     DigiPen's "IT Department."
+  *     That fancy coffee machine.
+ CS     Dolla Dolla Schills, y'all.
+ CS     3 AM programming revelations.
+  *     3000 words of pure bullshit.
+  *     A healthy work/life balance.
+ CS     Programming under the influence.
+  *     An original idea for a video game.
+BFA     Using blending instead of shading.
+ CS     Component-based engine architecture.
+  *     Never playing video games ever again.
+  *     Any hope of graduating at all, really.
+ CS     Forgetting to use `const`, like, once.
+  *     *My Little Pony: Friendship is Magic*.
+ CS     A secret closet shrine to Matthew Mead.
+  *     Being unable to find a goddamn stapler.
+  *     Taking the elevator to the second floor.
+BFA     When you do a drawing out of perspective.
+  *     A brief, passing feeling of accomplishment.
+  *     Being able to freely discuss anime in public.
+BFA     Arguments over which race today's nude model is.
+  *     The distinctive musk of an unshowered developer.
+  *     The hopes and dreams I once had before enrolling.
+BFA     Putting the vanishing points *too* close together.
+ CS     Late-night sexual fantasies involving the Doxywizard.
+  *     Loudly exclaiming, "I'm TRYING to make a GAME, here!"
+  *     Making a game that achieves everything it set out to do.
+BFA     Too much "pop" and not enough "snap," that kind of shit.
+  *     Trying to print anything, anytime in this goddamn school.
+  *     Attempting to be even remotely productive while in Edison.
+  *     Correcting somebody on their pronunciation of a Japanese word.
+  *     The ever-dwindling number of female computer science students.
+ CS     A pointer to a pointer to an array of eight pointers to `int`s.
+  *     Eating cafeteria pizza for every meal for the third day straight.
+  *     Attempting to pump out two weeks' worth of work in under 45 minutes.
+ GD     The "irreplaceable" James Portnow-shaped hole in DigiPen's game design program.
+  *     Sound design students, whatever the fuck their degree program is called.
+  *     Mindlessly regurgitating someone else's opinion you read on the Internet as though it was your own.
+  *     The delicious souls of yet another batch of freshman game design students.
+  *     The minimum amount of sleep required by the human body in order to not die.
+  *     Switching degree programs five times in one semester solely to get more scales.
+  *     Being able to find a single usable dry-erase marker, ever.
+ CS     The glazed-over, thousand-yard stare of a BFA who accidentally glanced at your code.
+ CS     Stifling a giggle at the concept of `friend` functions being able to share `private` members.
+  *     Watching the security guard pump iron and realizing that he works out more than you do.
+ CS     Commit messages that become increasingly unhinged during the final month of development.
+  *     Dropping out after realizing that playing video games all day isn't a valid career option.
+ CS     Saying "fuck it" and just creating a new repo instead of properly dealing with merge conflicts.
+  *     Getting suckered into buying $80 textbooks that the teacher never has you use even once all semester.
+  *     Being unable to understand why the fucking artist can't just animate these twelve things real quick.
+  *     Coming to terms with the fact that you can no longer purchase and play video games on a regular basis.
+  *     Teaching oneself the necessary, untaught skills required to produce the results demanded of one's classes.
+  *     Praying to a tiny, golden statue of Claude Comair to grant you *just* enough Wi-Fi to submit your assignment.
+  *     Shitting something out at the last possible second and hoping the TA doesn't have the time to really look at it too closely.
+  *     Checking out an Xbox One and a copy of *Titanfall* and playing it at max volume, during school hours, right in the middle of *fucking* Edison.
+  *     Murdering the next fucking doucher to raise their goddamn hand because seriously, Jesus Christ, somebody tell that piece of human garbage to shut the fuck up.
+  *     Discussing the quality of various video games using an authoritative, objective tone of voice, as though anyone gives a fuck about your stupid bullshit opinions.
+  *     Getting fucked over hard by a TA who didn't have time to grade your shit because they were too busy getting fucked over hard by a TA who didn't have time to grade *their* shit.
+ CS     Realizing that nothing you program in your entire time at DigiPen will ever be anywhere near as cool as something a BFA shit out in like five minutes during their second semester.
+ GD     The illusion of choice.
+ CS     Code reuse.
+  *     Losing any dignity or shame you once had.
+ GD     Completely making up playtest results.
+  *     Having the nerve to bring a pillow to class and sit in the front row.
+  *     Ping-Pong.
+  *     Kim Swift.
+  *     Forming sentences with the phrase "DigiPen is," because haha, that spells "penis."
+  *     Communal couch sleeping.
+  *     StreetPassing.
+  *     Google Glass.
+  *     Alcoholism.
+  *     Attempting to use your meal card to pay for things outside of school.
+ CS     The King of the Nerds.
+ GD     Having the best idea for a game, like, *ever*, man.
+  *     Being pretty sure that nobody in this class got anything higher than a B, either.
+  *     Reminding the professor to hand out the attendance sheet, signing it, and then bolting immediately.
+  *     Stockholm Syndrome.
+  *     Complaining about people who complain about their workloads.
+ GD     Senat.
+ GD     Raising your hand in response to a game design question only because you wanted to tell the whole class about how Kingdom Hearts is the best game of all time, objectively.
+  *     A complete and total waste of my fucking time.
+  *     A roguelike MMORPG that plays like a first-person shooter in a procedurally-generated world with a deep, branching plot, and also zombies.
+  *     Arguing the deep intricacies of this season's *League of Legends* meta across the various Asian countries.
+  *     One of the three black people in the school.
+ GD     Frantic arts & crafts.
+  *     *DigiPen Against Humanity*
+ CS     Forgetting to pull before you push.
+  *     Solo game teams.
+ GD     Getting over 100% on a GAT project.
+ CS     Forgetting how to write a memory manager.
+  *     Seeing that the guy who was complaining on Facebook about his workload just five minutes ago is currently in-game on Steam.
+  *     Video games.
+  *     Bullshit rubrics that are stupid and dumb.
+  *     ProjectFUN.
+  *     Crafting not just a game, but an *experience*.
+  *     Unpaid internships.
+  *     Pretending to shoot zombies with Nerf® guns in the parking lot.
+  *     Claude's model plane emporium that totally used to be the school gym.
+  *     Indadvertant vehicular manslaughter caused by *Outbreak*.
+  *     Bitching about how the school closes at 8 PM on weekends, after having just arrived at 4 PM.
+  *     Nepotism.
+  *     Resigning to the fact that you'll *definitely* be here at least five years, if not more.
+  *     Realizing that this game is just a satire of DigiPen's game design program in its entirety.
+  *     That /digipen/ board on 8chan.
+
+
+--------------------------------------------------------------------------------
+IDEAS
+--------------------------------------------------------------------------------
+Playtest Club
+the LAN party
+speed bumps
+parking, specifically in visitor lots
+GDC (freshmen?)
+the ASC
+tour groups
+end of school announcements
+Dark Souls being brought up in ever GAT class ever
