@@ -1,0 +1,46 @@
+﻿  *  -  What does Ellinger secretly prefer?
+  *  -  What is the pottery room *really* used for?
+  *  2  The real unspoken secret to ___ at DigiPen is ___.
+  *  -  _______? At DigiPen? It's more likely than you'd think.
+ CS  -  What the fuck are the BAGDers giggling about *this* time?
+  *  -  What does Claude Comair have a secret room on campus devoted to?
+ CS  -  The final commit message for our game project was simply a defeated "___."
+  *  -  I heard DigiPen is finally adding a new degree program solely focused on ___.
+  *  -  Apparently, an entire freshman game team was expelled last year for using ___.
+  *  -  From the sound of it, the general theme of the freshman game projects this year is ___.
+  *  -  Even though I knew it won 47 awards, I still can't believe Subray won the award for ___.
+  *  -  If I had to give only one piece of advice to incoming freshmen, it would be to avoid ___.
+  *  3  My parents think life at DigiPen is all ___ and ___, but to be honest, it's mostly just ___.
+  *  -  Even though we'll never publicly admit it, the *real* reason we fired our lead designer was due to ___.
+  *  -  When my friends back home ask what I do at video game school on a daily basis, my default response is "___."
+  *  -  Look to your left, look to your right; one of these students won't graduate with you, because of ___.
+  *  -  Word is, the sophomore RTIS students get together at the end of every year and play a drinking game centered around ___.
+ CS  -  In our final CS170 lecture, Mead informed us that ___ is the one thing that separates amateur and professional developers.
+  *  2  After realizing halfway through development that our game wasn't fun or interesting, we switched our focus from ___ to ___.
+  *  -  I don't know what my teammates told our artist, but *I* sure as shit didn't ask them for nine pages filled with sketches of ___.
+  *  -  If we can't have access to reliably usable Wi-Fi, the school ought to at *least* allow us to use ___ to try to connect to the Internet.
+ CS  -  For my next game team, I'm going to forego hiring developers entirely, and instead hire seven BAGDs that can all bring ___ to the table.
+ CS  -  We lost 40% on our game project last semester when the professor noticed a comment containing "TODO: consider ___" in one of our header files.
+ CS  -  The style guide our tech lead wrote up over the break didn't really mention naming conventions or consistency, and instead was mostly just a 34-page rant about ___.
+  *  -  I somehow spent my entire budget of dP in the first twenty-four hours of the semester because of ___.
+ CS  -  Zero Engine is actually really cool once you get past some of its quirks, such as its tendency to create ___ during runtime.
+ GD  -  In an effort to make the BSGD program more tolerable, they're removing Psychology 101 from their first semester, but then replacing it with a class on ___.
+  *  -  How do upperclassmen retain sanity?
+  *  -  As it turns out, DigiPen has a lesser-known club entirely based around ___.
+  *  -  It was a long semester, but now that it's over, I'll finally be able to confidently add "___" to my list of Skills & Endorsements on LinkedIn.
+  *  2  DigiPen + ___ = ___.
+  *  -  Now that they've installed key card locks on all the doors, I can finally breathe easy knowing I'm no longer in danger of ___.
+  *  -  Yesterday at Playtesting Club, I got to check out that Oculus Rift game everyone's been talking about. It's true, it really does make you feel like you're ___!
+  *  -  Even through all the bad times and the bullshit, ___ is the one thing that keeps me from dropping out.
+  *  -  Gotta love it when people think that having played video games non-stop since middle school means that they understand ___ better than the professor.
+  *  -  If I was given infinite time and resources to make the video game I've always wanted to make, it would be about ___.
+  *  -  What even *is* a game, *really*, man?
+  *  -  Truly experiencing ___ was easily more engaging than any video game I've ever played.
+  *  -  Look, dude. Our game can be about either ____ or ____, but there's no way it can be about both.
+  *  -  During the postmortem of my GAM 150 game, we realized that ____ was the one thing the game truly lacked.
+  *  -  And finally, a discretionary minus two for ____.
+  *  -  I can rest easy at night knowing that my tuition was expertly invested in ____.
+  *  -  ____ is pretty much a metaphor for my life at DigiPen.
+  *  2  I don't see what the big fuss is about that sophomore game. It's just a 2D platformer with ____ instead of ____.
+  *  -  If you want your game to be put up on the Game Gallery this year, it'd better feature ____.
+  *  -  Turns out that nobody in the ASC knows jack shit about ____.
